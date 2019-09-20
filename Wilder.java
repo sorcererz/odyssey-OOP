@@ -1,4 +1,4 @@
-package exo.heritageOdyssey;
+package exo.oopOdyssey;
 
 public class Wilder {
 	

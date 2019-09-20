@@ -1,6 +1,6 @@
-package exo.heritageOdyssey;
+package exo.oopOdyssey;
 
-import	exo.heritageOdyssey.Wilder;
+import	exo.oopOdyssey.Wilder;
 
 public class Classroom {
 
